@@ -16,6 +16,8 @@ Everything starts as a graph
 
 1. [Stanford Online Course](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 2. [GNN NLP](https://graph-neural-networks.github.io/index.html)
+3. [A gentle introduction to GNN](https://distill.pub/2021/gnn-intro/)
+4. [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
 
 ## GNN Software
 
