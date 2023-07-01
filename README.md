@@ -19,5 +19,5 @@ Everything starts as a graph
 
 ## GNN Software
 
-1. [DGL](https://github.com/dmlc/dglji3)
+1. [DGL](https://github.com/dmlc/dgl)
 2. [PyG](https://pytorch-geometric.readthedocs.io/en/latest/)
